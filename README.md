@@ -10,7 +10,7 @@
 * 🔭 Currently working on **fitness & subscription-based web apps**
 * 🌱 Learning more about **System Design & DSA**
 * 💡 Interested in **AI-driven apps** and **developer productivity tools**
-* 📫 Reach me at: [first.govindbhattpnd@gmail.com](mailto:first.govindbhattpnd@gmail.com)  
+* 📫 Reach me at: [govindbhattpnd@gmail.com](mailto:govindbhattpnd@gmail.com)  
 * 🌐 Portfolio: [govindgb.github.io/My_portfolio](https://govindgb.github.io/My_portfolio/)
 
 ---
